@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Coding projects and DSA practice<br>👯 I’m looking to collaborate on Open-source and college projects<br>🤝 I’m looking for help with Advanced DSA and Web Development<br>🌱 I’m currently learning Java, DSA, DBMS, OS, and Web Development<br>💬 Ask me about Programming, CSE subjects, Manhwa, Anime, and IPL<br>⚡ Fun fact: RCB fan who loves coding and binge-reading manhwa
+🔭 I’m currently working on Coding projects and DSA practice<br> 
+👯 I’m looking to collaborate on Open-source and college projects<br>
+🤝 I’m looking for help with Advanced DSA and Web Development<br>
+🌱 I’m currently learning Java, DSA, DBMS, OS, and Web Development<br>
+💬 Ask me about Programming, CSE subjects, Manhwa, Anime, and IPL<br>
+⚡ Fun fact: RCB fan who loves coding and binge-reading manhwa
 
 
 ## 🌐 Socials:
